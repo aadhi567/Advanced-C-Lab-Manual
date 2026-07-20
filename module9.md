@@ -1,5 +1,5 @@
 # EXP NO:11 C PROGRAM TO DISPLAY STACK ELEMENTS USING AN ARRAY.
-
+name: Aadhithan B , reg no : 212224040001
 ## Aim:
 To write a C program to display stack elements using an array.
 
